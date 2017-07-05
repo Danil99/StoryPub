@@ -10,7 +10,7 @@ class Header extends React.Component {
       return (
         <header>
           <div className="head">
-            <h1><Link to="/">Reduxstagram</Link></h1>
+            <h1><Link to="/">StoryPub</Link></h1>
 
             <Search />
 
